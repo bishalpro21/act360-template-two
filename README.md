@@ -1,2 +1,2 @@
 # act360-template-two
-Templateone is for Creative Agency Landing
+Template two is for Creative Agency Landing
